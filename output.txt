@@ -1,0 +1,70 @@
+{
+    "name": "Meatball black bean chilli",
+    "ingredients": [
+        {
+            "ingredientText": "2 tbsp olive oil",
+            "quantityText": "2 tbsp",
+            "term": "olive oil"
+        },
+        {
+            "ingredientText": "12 beef meatballs",
+            "quantityText": "12",
+            "term": "meatballs"
+        },
+        {
+            "ingredientText": "1 onion,finely sliced",
+            "quantityText": "1",
+            "term": "onion"
+        },
+        {
+            "ingredientText": "2 mixed peppers,sliced",
+            "quantityText": "2",
+            "term": "pepper"
+        },
+        {
+            "ingredientText": "\u00bd large bunch coriander,leaves and stalks chopped",
+            "quantityText": "\u00bd large bunch",
+            "term": "coriander"
+        },
+        {
+            "ingredientText": "2 large garlic cloves,crushed",
+            "quantityText": "2",
+            "term": "garlic clove"
+        },
+        {
+            "ingredientText": "1 tsp hot smoked paprika",
+            "quantityText": "1 tsp",
+            "term": "paprika"
+        },
+        {
+            "ingredientText": "2 tsp ground cumin",
+            "quantityText": "2 tsp",
+            "term": "cumin"
+        },
+        {
+            "ingredientText": "1 heaped tbsp light brown soft sugar",
+            "quantityText": "1 heaped tbsp",
+            "term": "light brown soft sugar"
+        },
+        {
+            "ingredientText": "2 x 400g cans chopped tomatoes",
+            "quantityText": "2 x 400g cans",
+            "term": "chopped tomatoes"
+        },
+        {
+            "ingredientText": "2 x 400g cans black beans,drained and rinsed",
+            "quantityText": "2 x 400g cans",
+            "term": "black beans"
+        },
+        {
+            "ingredientText": "cooked rice,to serve",
+            "quantityText": null,
+            "term": "rice"
+        }
+    ],
+    "instructions": [
+        "Heat the oil in a large flameproof casserole dish over a medium heat. Fry the meatballs for 5 mins until browned, then transfer to a plate with a slotted spoon.",
+        "Fry the onion and peppers with a pinch of salt for 7 mins. Add the coriander stalks, garlic, paprika and cumin and fry for 1 min more. Tip in the sugar, tomatoes and beans, and bring to a simmer. Season, return the meatballs to the pan and cook, covered, for 15 mins. To freeze, leave to cool completely and transfer to large freezerproof bags.",
+        "Serve the chilli with the rice and the coriander leaves scattered over."
+    ]
+}
